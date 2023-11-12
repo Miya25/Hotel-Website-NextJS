@@ -23,8 +23,8 @@ const Services = () => {
           Choose Best <span className="text-accent">Service</span>
         </h2>
         <p className="text-gray-700">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Quam dolorem quidem esse eum animi?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolorem
+          quidem esse eum animi?
         </p>
         <div className="w-fit mx-auto">
           <Dash />
